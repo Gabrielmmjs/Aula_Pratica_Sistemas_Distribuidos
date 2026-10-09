@@ -1,0 +1,2 @@
+# Aula_Pratica_Sistemas_Distribuidos
+Trabalho Individual
